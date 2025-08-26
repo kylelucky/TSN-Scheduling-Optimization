@@ -32,7 +32,7 @@ TSN-Scheduling-Optimization/
 └─ README.md
 
 ## 📄 참고 자료
-- [졸업논문 PDF](./docs/졸업논문_정찬우 변개령.pdf)
+- [졸업논문 PDF](./docs/thesis_chanwoo_jung.pdf)
 
 ## 🔗 포트폴리오 활용
 - 이 프로젝트는 이력서/자기소개서에 첨부하여 **네트워크 최적화 문제 해결 능력**을 보여주기 위한 포트폴리오용 저장소입니다.
